@@ -81,7 +81,7 @@
     width: 100%;
   }
 
-.thumbnails>img:hover{
+.thumbnails img:hover{
     border: 1px white solid;
 }
 .thumbDown {
@@ -102,7 +102,7 @@ h1{
     line-height: 100px;
 }
 
-p.largeImage {
+p.largeimage {
   height: 100%;
   width: 100%;
 }
