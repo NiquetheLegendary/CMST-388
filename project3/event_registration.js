@@ -2,8 +2,9 @@
 		Your Name: <Dominique Clarke>
 		Last Modified Date: <04/24/2024>
 		File: event_registration.js
-		File Description: <The goal is for the 10 min. Countdown timer to function correctly, display error message When Putting Invalid Number of Tickets,
-		have a submission Alert When Clicking "Purchase Tickets, an alert When Timer Has Expired and calculation functionality">
+		File Description: <The goal is for the 10 min. Countdown timer to function correctly, display correct error messages
+  		When entering an Invalid Number of Tickets, name, and email, you will have a submission alert when clicking "Purchase Tickets. 
+    		Also, an alert When the Timer Has Expired and calculation functionality>
 */
 
 // Set the minimum and maximum number of tickets able to be purchased
