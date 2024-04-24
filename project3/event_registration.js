@@ -1,6 +1,6 @@
 /*
 		Your Name: <Dominique Clarke>
-		Last Modified Date: <04/26/2024>
+		Last Modified Date: <04/24/2024>
 		File: event_registration.js
 		File Description: <The goal is for the 10 min. Countdown timer to function correctly, display error message When Putting Invalid Number of Tickets,
 		have a submission Alert When Clicking "Purchase Tickets, an alert When Timer Has Expired and calculation functionality">
